@@ -1,10 +1,7 @@
-# SDN Ryu Routing Suite
+# SDN Ryu Routing Repo
 
 This repository presents a comprehensive implementation of various controller applications using the Ryu SDN framework to manage OpenFlow-based networks. These applications simulate real-world behaviors in network switches and demonstrate key principles of Software-Defined Networking (SDN), such as centralized control, dynamic routing, loop prevention, and congestion awareness.
 
-## Repository Name
-
-**sdn-ryu-routing-suite**
 
 ## Contents
 
